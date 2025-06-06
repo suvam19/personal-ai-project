@@ -19,7 +19,7 @@ This is a simple command-line AI chatbot powered by a local LLM (TinyLlama via [
 ## 🧪 Demo
 
 ```bash
-$ python ai_chat.py
+$ python chat_with_ai.py ## for mac use python3 for windows python chat_with_ai.py
 Start chatting with TinyLlama (type 'exit' to quit)
 You: hello
 AI: Hello! How can I help you today?
